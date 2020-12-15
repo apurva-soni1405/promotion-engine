@@ -12,3 +12,5 @@ D:\Job assignments\Task\promotion-engine\PromotionEngineTest\obj\Debug\Promotion
 D:\Job assignments\Task\promotion-engine\PromotionEngineTest\obj\Debug\PromotionEngineTest.csproj.CopyComplete
 D:\Job assignments\Task\promotion-engine\PromotionEngineTest\obj\Debug\PromotionEngineTest.dll
 D:\Job assignments\Task\promotion-engine\PromotionEngineTest\obj\Debug\PromotionEngineTest.pdb
+D:\Job assignments\Task\promotion-engine\PromotionEngineTest\bin\Debug\PromotionEngineUtility.dll
+D:\Job assignments\Task\promotion-engine\PromotionEngineTest\bin\Debug\PromotionEngineUtility.pdb
