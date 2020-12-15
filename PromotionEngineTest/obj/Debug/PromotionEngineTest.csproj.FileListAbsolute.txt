@@ -1,0 +1,14 @@
+D:\Job assignments\Task\promotion-engine\PromotionEngineTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Job assignments\Task\promotion-engine\PromotionEngineTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Job assignments\Task\promotion-engine\PromotionEngineTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Job assignments\Task\promotion-engine\PromotionEngineTest\bin\Debug\PromotionEngineTest.dll
+D:\Job assignments\Task\promotion-engine\PromotionEngineTest\bin\Debug\PromotionEngineTest.pdb
+D:\Job assignments\Task\promotion-engine\PromotionEngineTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Job assignments\Task\promotion-engine\PromotionEngineTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Job assignments\Task\promotion-engine\PromotionEngineTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Job assignments\Task\promotion-engine\PromotionEngineTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Job assignments\Task\promotion-engine\PromotionEngineTest\obj\Debug\PromotionEngineTest.csprojAssemblyReference.cache
+D:\Job assignments\Task\promotion-engine\PromotionEngineTest\obj\Debug\PromotionEngineTest.csproj.CoreCompileInputs.cache
+D:\Job assignments\Task\promotion-engine\PromotionEngineTest\obj\Debug\PromotionEngineTest.csproj.CopyComplete
+D:\Job assignments\Task\promotion-engine\PromotionEngineTest\obj\Debug\PromotionEngineTest.dll
+D:\Job assignments\Task\promotion-engine\PromotionEngineTest\obj\Debug\PromotionEngineTest.pdb
