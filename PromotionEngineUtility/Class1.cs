@@ -8,6 +8,7 @@ namespace PromotionEngineUtility
 {
     public class ManageOrder
     {
+        //Assign SKU ID count 
         readonly int promotionACount = 3; readonly int promotionBCount = 2; 
         public int CalculateOrder(List<string> cart)
         {
@@ -15,12 +16,13 @@ namespace PromotionEngineUtility
             int countA = 0; int countB = 0; int countC = 0; int countD = 0;
             int countCD = 0; int unitCCount = 0; int unitDCount = 0;
 
-            countA = cart.Where(x => x == "A").Count();
-            countB = cart.Where(x => x == "B").Count();
-            countC = cart.Where(x => x == "C").Count();
-            countD = cart.Where(x => x == "D").Count();
+            countA = cart.Where(x => x == "A").Count(); //Count SKU ID "A"
+            countB = cart.Where(x => x == "B").Count(); //Count SKU ID "B"
+            countC = cart.Where(x => x == "C").Count(); //Count SKU ID "C"
+            countD = cart.Where(x => x == "D").Count(); //Count SKU ID "D"
 
-            if (countC <= countD)
+            //Make pair of C and D
+            if (countC <= countD) 
             {
                 countCD = countC;
                 unitDCount = countD - countCD;
@@ -31,11 +33,12 @@ namespace PromotionEngineUtility
                 unitCCount = countC - countCD;
             }
 
-            orderValue = ((countA / promotionACount) * 130) + ((countA % promotionACount) * 50) +
-                ((countB / promotionBCount) * 45) + ((countB % promotionBCount) * 30) +
-                (countCD * 30) +
-                (unitCCount * 20) +
-                (unitDCount * 15);
+            //Formula to calculate order value result
+            orderValue = ((countA / promotionACount) * 130) + ((countA % promotionACount) * 50) + //Order value for A
+                ((countB / promotionBCount) * 45) + ((countB % promotionBCount) * 30) + //Order value for B
+                (countCD * 30) + //Order value for C-D pair
+                (unitCCount * 20) + //Order value for unit C
+                (unitDCount * 15); //Order value for unit D
 
             return orderValue;
         }
