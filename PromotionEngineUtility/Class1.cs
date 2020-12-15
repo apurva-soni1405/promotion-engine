@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace PromotionEngineUtility
 {
-    public class Class1
+    public class ManageOrder
     {
+        public int CalculateOrder(List<string> cart)
+        {
+            return 0;
+        }
     }
 }
