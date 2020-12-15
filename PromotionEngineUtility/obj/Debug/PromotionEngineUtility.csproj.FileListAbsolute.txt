@@ -1,0 +1,6 @@
+D:\Job assignments\Task\promotion-engine\PromotionEngineUtility\bin\Debug\PromotionEngineUtility.dll
+D:\Job assignments\Task\promotion-engine\PromotionEngineUtility\bin\Debug\PromotionEngineUtility.pdb
+D:\Job assignments\Task\promotion-engine\PromotionEngineUtility\obj\Debug\PromotionEngineUtility.csprojAssemblyReference.cache
+D:\Job assignments\Task\promotion-engine\PromotionEngineUtility\obj\Debug\PromotionEngineUtility.csproj.CoreCompileInputs.cache
+D:\Job assignments\Task\promotion-engine\PromotionEngineUtility\obj\Debug\PromotionEngineUtility.dll
+D:\Job assignments\Task\promotion-engine\PromotionEngineUtility\obj\Debug\PromotionEngineUtility.pdb
